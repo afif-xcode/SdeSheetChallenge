@@ -1,4 +1,4 @@
-/////// This Code is written by Afif Islam
+/////// This Code is written by Afif Islam ///
 #include <queue>
 class Stack {
 	// Define the data members.
